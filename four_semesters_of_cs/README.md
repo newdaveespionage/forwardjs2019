@@ -5,6 +5,9 @@
 * took some CS, dropped out
 * currently working with Microsoft 
 * recommended learning Scheme - Book "The Little Schemer"
+* "Corman's Algorithms"
+* "The Imposter's Handbook"
+
 
 ##Course
 
@@ -45,7 +48,29 @@
 
 ##Sorting Algorithms
 
+###Bubble Sort
+
 * Bubble sort, find largest, bubble up to top
 * inefficient as it requires multiple iterations 
 * no need to track previously sorted items (at top descending)
+* While vs Do - Do executes once then checks, while executes only if check passes initially 
+* worst case: inverse sorted data
+
+###Insertion Sort
+
+* Keep track of sorted side of list, unsorted side of list 
+* Start with completely unsorted, move sorted indicator 
+* check if item is smaller or larger when compared to sorted items, place accordingly on "sorted" side
+* One loop to evaluate each item in list
+* internal loop to evaluate sorted against item, in reverse (i--)
+* Heuristic: bias in an algorithm
+* the heuristic here is the sorted threshold, anything below that does not need to be evaluated
+
+###Merge Sort 
+
+* has recursion and multiple array comparisons so O(nlogn)
+* avoids unnecessary comparisons through destructuring source material
+* compares the same way every time (predictable performance)
+* best case scenario is same as worst case
+* 
 
