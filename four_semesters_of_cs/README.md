@@ -72,5 +72,18 @@
 * avoids unnecessary comparisons through destructuring source material
 * compares the same way every time (predictable performance)
 * best case scenario is same as worst case
-* 
+
+###Quicksort 
+
+* one large array, break down into smaller
+* smaller arrays are purposely not equal
+* many variations of types of quicksort
+* take last number in array
+* use it as pivot
+* assume returned arrays are sorted
+* concat left list, pivot, right list (left = less, right = greater)
+* base case is list of 1 or 0
+* worst case is still nlogn
+* variant to avoid overhead with sorted lists is quicksort 3
+
 
