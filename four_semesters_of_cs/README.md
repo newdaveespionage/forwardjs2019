@@ -1,6 +1,8 @@
 # Four Semesters of CS in Six Hours 
-https://btholt.github.io/four-semesters-of-cs/
-https://btholt.github.io/four-semesters-of-cs-part-two/
+
+(Part 1)[https://btholt.github.io/four-semesters-of-cs/]
+
+(Part 2)[https://btholt.github.io/four-semesters-of-cs-part-two/]
 
 ## Brian Holt 
 
