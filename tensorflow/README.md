@@ -88,13 +88,21 @@
 
 ## Hands-on exercise 1 
 
+* Image and image capture recognition
 * https://bit.ly/2B5QJQI
 * https://codelabs.developers.google.com/ (search tensorflow js)
 * https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html
+* pac-man https://js.tensorflow.org/
 
 
 ## Hands-on exercise 2 
 
+* Audio recognition
+* Convolutional Neural Network 
+* FFT - Fast Fourier Transform 
+* Spectrogram becomes data for training 
+* Leveraging Layers api (similar to Keras)
+* https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab/index.html
 
 
 ## Guided Tutorial 
