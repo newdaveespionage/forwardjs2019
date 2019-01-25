@@ -65,7 +65,32 @@
 * Text to speech 
 * Pixels
 
+### Tensorflow as an open source package 
+
+* Launched about 3 years ago 
+* #1 repository in ML on GitHub 
+* Very popular on StackOverflow
+* "I'm kind of a big deal" audio sample here would be appropriate
+
+### Language uses 
+
+* Python highly used for ML
+* Javascript highly used in general 
+* Hence Tensorflow.js
+
+### Architecture 
+
+* Core API - base math 
+* Layers API - assembling models 
+* Models - pre-trained models for identification
+* Browser -> WebGL
+* Node.js -> Hardware
+
 ## Hands-on exercise 1 
+
+* https://bit.ly/2B5QJQI
+* https://codelabs.developers.google.com/ (search tensorflow js)
+* https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/index.html
 
 
 ## Hands-on exercise 2 
