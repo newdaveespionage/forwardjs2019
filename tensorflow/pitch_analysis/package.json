@@ -1,0 +1,14 @@
+{
+  "name": "pitch_analysis",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.2.3",
+    "socket.io": "^2.2.0",
+    "webpack": "^4.29.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  }
+}
